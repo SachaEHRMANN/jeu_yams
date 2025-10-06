@@ -1,0 +1,16 @@
+{
+	"parameters" : { 
+		"code": "TP4_saan",
+		"date": "2024-11-28"
+	},
+	"players": [
+		{
+			"id": 1,
+			"pseudo": "dsqdq"
+		},
+		{
+			"id": 2,
+			"pseudo": "dsqd"
+		}
+	],
+	"rounds": [
